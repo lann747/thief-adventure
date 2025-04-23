@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BackgroundLayer
+comment1.params=image\ scrollSpeed
+comment1.target=BackgroundLayer(greenfoot.GreenfootImage,\ double)
+comment2.params=
+comment2.target=void\ updateImage()
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=speed
+comment4.target=void\ scroll(double)
+comment5.params=
+comment5.target=void\ stop()
+numComments=6

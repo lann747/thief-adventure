@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PeluruPolisi
+comment1.params=
+comment1.target=PeluruPolisi()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=a\ b
+comment3.target=boolean\ isBoundingBoxColliding(greenfoot.Actor,\ greenfoot.Actor)
+numComments=4
