@@ -8,8 +8,8 @@ Thief Adventure adalah game 2D petualangan seru yang dibuat menggunakan Greenfoo
 - 🎯 Tujuan: Bertahan hidup dan mengumpulkan skor tertinggi.
 
 ## 📷 Cuplikan
-![image1](img/image1.png)
-![image2](img/image2.png)
+### ![image1](images/image1.png)
+### ![image2](images/image2.png)
 
 ## 🛠️ Dibuat Dengan
 - 🧰 Greenfoot – IDE Java untuk membuat game berbasis objek
